@@ -1,4 +1,4 @@
-# A series of PortSwigger Web Academy lab writeups from an AppSec perspective and secure coding focus.
+# A series of PortSwigger Web Academy lab writeups from an AppSec perspective and secure coding focus
 
 This repository contains a curated collection of writeups for PortSwigger Web Security Academy labs — but with a twist.
 Most public writeups focus only on exploitation: how to reproduce a vulnerability, craft the payload, and complete the lab. This repo goes further.
