@@ -26,6 +26,7 @@ Each writeup breaks down:
 - Clear exploitation walkthroughs (short, focused)
 - Code-level analysis of why the bug exists
 - Secure-by-design remediation guidance
+- Complete exploitation scripts
 - References to standards: OWASP ASVS, Top 10, secure coding guides
 - Occasional threat-modeling insights
 
